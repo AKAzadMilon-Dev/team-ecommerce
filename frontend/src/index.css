@@ -1,0 +1,50 @@
+a{
+  text-decoration: none !important;
+}
+
+a:hover{
+  color: #fff !important;
+}
+
+.productname:hover , span a:hover{
+  color: #0d6efd !important;
+}
+
+.menu a{
+  color: #fff;
+  margin-left: 30px;
+}
+.dropdownmenu {
+  margin-left: 30px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff !important;
+}
+.nav-link {
+    padding: 0px !important;
+}
+.dropdownmenu a{
+  color: #252525;
+  margin-left: 0px;
+}
+.dropdownmenu a:hover{
+  background-color:transparent;
+  color: #252525 !important;
+}
+
+.loading{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.staricon{
+  color: #ffaa00;
+}
+.signin{
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
